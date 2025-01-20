@@ -1,14 +1,14 @@
 //importing all sections from the index.js in sections folder
 import {
-  CourseSearch,
-  Footer,
-  FrequentQuestions,
-  History,
   HomeCards,
+  WelcomeNote,
+  CourseSearch,
   News,
+  History,
   Research,
   Statistics,
-  WelcomeNote
+  FrequentQuestions,
+  Footer,
 } from './sections';
 
 import Nav from './components/Nav';

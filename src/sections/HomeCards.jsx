@@ -1,4 +1,4 @@
-//import { slide1 } from "../assets/img"
+import { slide1 } from "../assets/img"
 
 
 
